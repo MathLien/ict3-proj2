@@ -1,0 +1,25 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+[
++src/main/java/com/example/distriblocks/Main,6\8\68dd452d34906c0d8fd4a5499d44d80b90d01af8
+b
+2src/main/java/com/example/distriblocks/Server.java,e\9\e93ce5441f4f364c3d42772484cfeb2273153024
+`
+0src/main/java/com/example/distriblocks/Main.java,2\1\21f1bacf0a3ec2e7a645dbed02f9c68fa0554bec
+b
+2src/main/java/com/example/distriblocks/Client.java,7\2\72862b37fd42c2bb07eaeff01f48b3044068f5d0
+h
+8src/main/java/com/example/distriblocks/LeaderServer.java,8\e\8ea75e5f08a68302b0757c5f4f87c58a4ed1a9e8
+j
+:src/main/java/com/example/distriblocks/FollowerServer.java,7\5\75f038c994c238558a4e1c83697166b5abeef9f5
+b
+2src/main/java/com/example/distriblocks/OpType.java,2\8\28c040a5bab4b79a96239310e0a87a8ce1159cd4
+b
+2src/main/java/com/example/distriblocks/Result.java,9\f\9fb1f147b8a90b5c2e390e3d42265bffab8dc029
+`
+0src/main/java/com/example/distriblocks/Role.java,6\6\66bac59d423f34ee9a2d9536bf4f611f20aca78a
+f
+6src/main/java/com/example/distriblocks/LockClient.java,a\2\a2cc8245c3c9a57940de3fb00ef7f4c7b5a10f18
+f
+6src/main/java/com/example/distriblocks/LockServer.java,7\1\7191de96afaadbe018ef7401df5d6eb0923ee14d
