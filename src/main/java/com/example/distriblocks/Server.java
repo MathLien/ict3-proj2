@@ -7,7 +7,6 @@ import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class Server implements LockServer{
-
     // add variables
 
     @Override
@@ -16,13 +15,7 @@ public class Server implements LockServer{
     }
 
     @Override
-    void connectLeader(String info) throws IOException{
-        // do stuff
-    }
-
-    @Override
     void inform(String tmpIP, String info) throws IOException{
         // do stuff
     }
-
 }
