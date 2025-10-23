@@ -7,7 +7,7 @@ public class FollowerServer implements Server {
         // returns: True if successful, False if not
     }
 
-    public boolean askMasterToRelease(String lockName, int clientID) throws IOexception{
+    public boolean askMasterToRelease(String lockName, int clientID) throws IOexception {
         // connect with leader
         // detail of request: ...
         // returns: True if successful, False if not
